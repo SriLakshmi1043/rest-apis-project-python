@@ -3,4 +3,4 @@
 __pycache__
 data.db
 *.pyc
-.Ds_Store
+.Ds_Stores
